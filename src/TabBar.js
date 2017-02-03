@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   scroll: {
-    overflow: 'scroll',
+    overflow: 'hidden',
   },
   tabbar: {
     backgroundColor: 'black',
